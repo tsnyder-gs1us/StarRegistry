@@ -1,0 +1,27 @@
+{
+  "name": "starregistry",
+  "version": "1.0.0",
+  "description": "Truffle Version: v5.5.2 OpenZeppelin Version: 2.3.0 ERC-721 Token Name: Remembrance Star Registry ERC-721 Token Symbol: RSTR Rinkeby Network Token Address: https://rinkeby.etherscan.io/tx/0x4fd7575b5a5981bef2852b82807f8743f647ead31fed9f6f81cdbee1bd9a2bad",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "^2.3.0",
+    "truffle-hdwallet-provider": "^1.0.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsnyder-gs1us/StarRegistry.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsnyder-gs1us/StarRegistry/issues"
+  },
+  "homepage": "https://github.com/tsnyder-gs1us/StarRegistry#readme"
+}
