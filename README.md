@@ -9,3 +9,6 @@ ERC-721 Token Name: Remembrance Star Registry
 ERC-721 Token Symbol: RSTR
 
 Rinkeby Network Token Address: https://rinkeby.etherscan.io/address/0x9ee814e36db2c0f88f30dad2f4221cf34f7324e5
+
+# Developer Notes
+Prior to running truffle develop. Make sure to run NPM Install from both the root project folder and app Folder. 
